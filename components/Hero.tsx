@@ -46,7 +46,7 @@ const Home: React.FC = () => {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage:
-              "url('/public/assets/WhatsApp Image 2025-11-12 at 08.07.17_f02ed693.jpg')",
+              "url('/public/WhatsApp Image 2025-11-12 at 08.07.17_f02ed693.jpg')",
           }}
         />
         <div className="absolute inset-0 bg-dark-navy/85" />
