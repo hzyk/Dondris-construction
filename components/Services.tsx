@@ -52,12 +52,12 @@ const Services: React.FC = () => {
 
   // Images should be placed inside /public/images/projects/
   const projectImages = [
-    "public/WhatsApp Image 2025-11-12 at 08.07.08_17108ffa.jpg",
-    "public/WhatsApp Image 2025-11-12 at 08.07.15_50b7eb22.jpg",
-    "public/WhatsApp Image 2025-11-12 at 08.07.15_50b7eb22.jpg",
-    "public/WhatsApp Image 2025-11-12 at 08.07.17_6193ee4d.jpg",
-    "public/WhatsApp Image 2025-11-12 at 08.07.17_6193ee4d.jpg",
-    "public/WhatsApp Image 2025-11-12 at 08.07.17_f02ed693.jpg",
+    "WhatsApp Image 2025-11-12 at 08.07.08_17108ffa.jpg",
+    "WhatsApp Image 2025-11-12 at 08.07.15_50b7eb22.jpg",
+    "WhatsApp Image 2025-11-12 at 08.07.15_50b7eb22.jpg",
+    "WhatsApp Image 2025-11-12 at 08.07.17_6193ee4d.jpg",
+    "WhatsApp Image 2025-11-12 at 08.07.17_6193ee4d.jpg",
+    "WhatsApp Image 2025-11-12 at 08.07.17_f02ed693.jpg",
   ];
 
   return (
