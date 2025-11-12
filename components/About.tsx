@@ -70,7 +70,7 @@ const About: React.FC = () => {
               </div>
             </div>
             <motion.div variants={itemVariants} className="md:col-span-2 bg-dark-navy p-6 shadow-2xl">
-              <div className="w-full h-64 md:h-80 bg-cover bg-center mb-4" style={{backgroundImage: "url('https://picsum.photos/400/500?random=2')"}}></div>
+              <div className="w-full h-64 md:h-80 bg-cover bg-center mb-4" style={{backgroundImage: "url('WhatsApp Image 2025-11-12 at 08.07.17_f02ed693.jpg')"}}></div>
               <h4 className="text-2xl font-bold text-white">Ndabenhle Nhlakanipho Madondo</h4>
               <p className="text-yellow text-sm uppercase">Director</p>
               <p className="text-gray-400 mt-2 text-sm italic">"A seasoned construction industry professional with over 10 years of hands-on experience in project management, construction operations, and business leadership."</p>
