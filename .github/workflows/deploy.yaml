@@ -70,10 +70,10 @@ jobs:
           terraform init
 
           echo "Running Terraform plan..."
-          terraform plan -no-color -var-file=dondris-construction.tfvars
+          terraform plan -no-color -var-file=dondris-constructions.tfvars
 
           echo "Running Terraform apply..."
-          terraform apply -no-color -auto-approve -var-file=dondris-construction.tfvars
+          terraform apply -no-color -auto-approve -var-file=dondris-constructions.tfvars
 
       - name: Get Terraform Outputs
         id: tf
